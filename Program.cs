@@ -17,7 +17,7 @@ namespace simulated_device
         // The device connection string to authenticate the device with your IoT hub.
         // Using the Azure CLI:
         // az iot hub device-identity show-connection-string --hub-name {YourIoTHubName} --device-id MyDotnetDevice --output table
-        private readonly static string s_connectionString = "HostName=nackademin-reference-iot.azure-devices.net;DeviceId=Device1;SharedAccessKey=akM1I42DnmxhPemnrpJPoA/iqK8yEVuk4kGNVE9vhD0=";
+        private readonly static string s_connectionString = "<insert connection string>";
 
         private static int s_telemetryInterval = 1;
         private static int TemperatureSensorOn = 1;
