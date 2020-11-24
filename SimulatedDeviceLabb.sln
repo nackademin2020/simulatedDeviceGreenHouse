@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedDeviceLabb", "SimulatedDeviceLabb.csproj", "{CAA39512-188A-448B-B3F8-EFD88A7DA40B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA39512-188A-448B-B3F8-EFD88A7DA40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA39512-188A-448B-B3F8-EFD88A7DA40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA39512-188A-448B-B3F8-EFD88A7DA40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA39512-188A-448B-B3F8-EFD88A7DA40B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E852029-A70C-486A-937B-D7B53A93F67B}
+	EndGlobalSection
+EndGlobal
